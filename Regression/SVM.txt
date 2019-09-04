@@ -1,0 +1,7 @@
+SVR(support vector regression)
+# support vector machines support linear and nonlinear regression that we can refer to as SVR
+# performs linear regression in a higher(dimensional space)
+
+SVR has a different regression goal compared to linear regression . In linear regression we
+are tryong to minimize the error between the prediction and the data. In SVR our goal is to 
+make sure that the errors donot excees the threshold.
