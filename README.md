@@ -1,2 +1,2 @@
-# Machine-Learning-
-The updated codes from Udemy course for Machine learning
+# Machine-Learning
+Code of the various Machine Learning models
